@@ -1,4 +1,3 @@
-# SparkOptimizationSamples
 
 # My Spark optimizations techniques and examples
 
