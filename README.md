@@ -9,3 +9,4 @@
 * Checkpoint and persistence importance
 * Accumulator to debug executor overheads
 
+scalatest used to validate the test results in most of the usecases. 
